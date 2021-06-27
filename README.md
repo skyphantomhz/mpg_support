@@ -23,5 +23,5 @@ var routes = polyline.decode('{y`aBogjsSaQ`@gPj@`A`SsBzNhInFzLjLHhAvO{Dy@gJGgI{B
 
 ## Run
 ```
-npm index.js
+node index.js
 ```
